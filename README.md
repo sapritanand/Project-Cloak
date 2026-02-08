@@ -477,17 +477,3 @@ MIT License - Feel free to use for learning, portfolios, or research.
 ## 💬 Key Takeaway
 
 > **This project demonstrates that AI models can learn collectively from distributed data without ever collecting that data centrally. By adding differential privacy, we provide mathematical guarantees that individual data points remain private, even if attackers have access to the model.**
-
-This is the future of privacy-preserving machine learning.
-
----
-
-## 📧 Contact
-
-For questions or discussions about this project:
-- GitHub Issues: [Create an issue](https://github.com/yourusername/privacy-preserving-search/issues)
-- Email: your.email@example.com
-
----
-
-**Built with ❤️ for the privacy-preserving ML community**
