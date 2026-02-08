@@ -1,0 +1,37 @@
+[
+  {
+    "client_id": 0,
+    "final_accuracy": 0.95,
+    "final_loss": 0.39819842358861846,
+    "data_size": 100,
+    "privacy_sigma": 0.5
+  },
+  {
+    "client_id": 1,
+    "final_accuracy": 0.9,
+    "final_loss": 0.3941094254768829,
+    "data_size": 100,
+    "privacy_sigma": 0.5
+  },
+  {
+    "client_id": 2,
+    "final_accuracy": 0.85,
+    "final_loss": 0.42287754753868234,
+    "data_size": 100,
+    "privacy_sigma": 0.5
+  },
+  {
+    "client_id": 3,
+    "final_accuracy": 0.95,
+    "final_loss": 0.41538382923024514,
+    "data_size": 100,
+    "privacy_sigma": 0.5
+  },
+  {
+    "client_id": 4,
+    "final_accuracy": 0.9,
+    "final_loss": 0.43026534505561,
+    "data_size": 100,
+    "privacy_sigma": 0.5
+  }
+]

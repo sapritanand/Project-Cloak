@@ -1,0 +1,602 @@
+[
+  {
+    "query": "gaming laptop",
+    "document": "Budget Vacation Ideas",
+    "click": 0,
+    "relevance": 0.049
+  },
+  {
+    "query": "python basics",
+    "document": "Budget Vacation Ideas",
+    "click": 0,
+    "relevance": 0.06
+  },
+  {
+    "query": "laptop for work",
+    "document": "Python Programming Complete Course",
+    "click": 0,
+    "relevance": 0.026
+  },
+  {
+    "query": "quick dinner",
+    "document": "Budget Athletic Shoes Guide",
+    "click": 0,
+    "relevance": -0.093
+  },
+  {
+    "query": "laptop for work",
+    "document": "Meal Prep Guide for Beginners",
+    "click": 1,
+    "relevance": 0.383
+  },
+  {
+    "query": "python tutorial",
+    "document": "Healthy Recipes for Weight Loss",
+    "click": 0,
+    "relevance": 0.006
+  },
+  {
+    "query": "healthy recipes",
+    "document": "Top Workout Shoes for Gym",
+    "click": 0,
+    "relevance": 0.093
+  },
+  {
+    "query": "laptop for work",
+    "document": "Budget Athletic Shoes Guide",
+    "click": 0,
+    "relevance": 0.093
+  },
+  {
+    "query": "running shoes",
+    "document": "How to Find Cheap Flights",
+    "click": 0,
+    "relevance": -0.027
+  },
+  {
+    "query": "python tutorial",
+    "document": "Gaming Laptop Buying Guide",
+    "click": 0,
+    "relevance": -0.009
+  },
+  {
+    "query": "vacation spots",
+    "document": "Best Running Shoes 2024 Review",
+    "click": 0,
+    "relevance": 0.064
+  },
+  {
+    "query": "budget laptop",
+    "document": "Top Workout Shoes for Gym",
+    "click": 0,
+    "relevance": -0.095
+  },
+  {
+    "query": "python tutorial",
+    "document": "Advanced Python Programming Guide",
+    "click": 0,
+    "relevance": 0.53
+  },
+  {
+    "query": "python tutorial",
+    "document": "Quick Breakfast Ideas for Busy Mornings",
+    "click": 0,
+    "relevance": 0.03
+  },
+  {
+    "query": "budget laptop",
+    "document": "Quick Breakfast Ideas for Busy Mornings",
+    "click": 0,
+    "relevance": 0.099
+  },
+  {
+    "query": "python tutorial",
+    "document": "Python Programming Complete Course",
+    "click": 1,
+    "relevance": 0.478
+  },
+  {
+    "query": "cheap flights",
+    "document": "Nike vs Adidas: Running Shoe Comparison",
+    "click": 0,
+    "relevance": 0.017
+  },
+  {
+    "query": "laptop for work",
+    "document": "Top Workout Shoes for Gym",
+    "click": 0,
+    "relevance": 0.356
+  },
+  {
+    "query": "python tutorial",
+    "document": "Healthy Recipes for Weight Loss",
+    "click": 0,
+    "relevance": -0.057
+  },
+  {
+    "query": "laptop for work",
+    "document": "Gaming Laptop Buying Guide",
+    "click": 1,
+    "relevance": 0.43
+  },
+  {
+    "query": "meal prep",
+    "document": "Best Budget Laptops for Students 2024",
+    "click": 0,
+    "relevance": -0.02
+  },
+  {
+    "query": "laptop for work",
+    "document": "Professional Workstation Laptops Review",
+    "click": 0,
+    "relevance": 0.033
+  },
+  {
+    "query": "budget laptop",
+    "document": "Best Budget Laptops for Students 2024",
+    "click": 1,
+    "relevance": 0.557
+  },
+  {
+    "query": "python tutorial",
+    "document": "Python Basics for Beginners",
+    "click": 0,
+    "relevance": 0.414
+  },
+  {
+    "query": "budget laptop",
+    "document": "Advanced Python Programming Guide",
+    "click": 0,
+    "relevance": -0.034
+  },
+  {
+    "query": "best laptop",
+    "document": "10 Healthy Dinner Recipes Under 30 Minutes",
+    "click": 0,
+    "relevance": 0.072
+  },
+  {
+    "query": "laptop for work",
+    "document": "Learn Python in 30 Days - Free Tutorial",
+    "click": 0,
+    "relevance": -0.078
+  },
+  {
+    "query": "laptop for work",
+    "document": "Advanced Python Programming Guide",
+    "click": 1,
+    "relevance": 0.018
+  },
+  {
+    "query": "budget laptop",
+    "document": "Nike vs Adidas: Running Shoe Comparison",
+    "click": 0,
+    "relevance": 0.005
+  },
+  {
+    "query": "laptop for work",
+    "document": "Top 15 Travel Destinations 2024",
+    "click": 0,
+    "relevance": 0.019
+  },
+  {
+    "query": "python tutorial",
+    "document": "Best Budget Laptops for Students 2024",
+    "click": 0,
+    "relevance": 0.045
+  },
+  {
+    "query": "quick dinner",
+    "document": "Budget Athletic Shoes Guide",
+    "click": 0,
+    "relevance": 0.029
+  },
+  {
+    "query": "running shoes",
+    "document": "Nike vs Adidas: Running Shoe Comparison",
+    "click": 1,
+    "relevance": 0.537
+  },
+  {
+    "query": "budget laptop",
+    "document": "Professional Workstation Laptops Review",
+    "click": 0,
+    "relevance": -0.036
+  },
+  {
+    "query": "python tutorial",
+    "document": "Best Weekend Getaway Spots",
+    "click": 0,
+    "relevance": 0.01
+  },
+  {
+    "query": "travel destinations",
+    "document": "Quick Breakfast Ideas for Busy Mornings",
+    "click": 0,
+    "relevance": -0.009
+  },
+  {
+    "query": "python tutorial",
+    "document": "Gaming Laptop Buying Guide",
+    "click": 0,
+    "relevance": 0.071
+  },
+  {
+    "query": "python course",
+    "document": "Nike vs Adidas: Running Shoe Comparison",
+    "click": 0,
+    "relevance": -0.01
+  },
+  {
+    "query": "laptop for work",
+    "document": "Best Running Shoes 2024 Review",
+    "click": 0,
+    "relevance": -0.017
+  },
+  {
+    "query": "python tutorial",
+    "document": "10 Healthy Dinner Recipes Under 30 Minutes",
+    "click": 0,
+    "relevance": -0.025
+  },
+  {
+    "query": "budget laptop",
+    "document": "Professional Workstation Laptops Review",
+    "click": 0,
+    "relevance": 0.066
+  },
+  {
+    "query": "python tutorial",
+    "document": "Healthy Recipes for Weight Loss",
+    "click": 0,
+    "relevance": 0.062
+  },
+  {
+    "query": "python tutorial",
+    "document": "How to Find Cheap Flights",
+    "click": 0,
+    "relevance": -0.034
+  },
+  {
+    "query": "python tutorial",
+    "document": "Nike vs Adidas: Running Shoe Comparison",
+    "click": 0,
+    "relevance": 0.074
+  },
+  {
+    "query": "weekend getaway",
+    "document": "Quick Breakfast Ideas for Busy Mornings",
+    "click": 0,
+    "relevance": -0.03
+  },
+  {
+    "query": "python tutorial",
+    "document": "Top Workout Shoes for Gym",
+    "click": 0,
+    "relevance": -0.055
+  },
+  {
+    "query": "meal prep",
+    "document": "Gaming Laptop Buying Guide",
+    "click": 0,
+    "relevance": 0.053
+  },
+  {
+    "query": "cheap flights",
+    "document": "Budget Vacation Ideas",
+    "click": 0,
+    "relevance": 0.023
+  },
+  {
+    "query": "python tutorial",
+    "document": "10 Healthy Dinner Recipes Under 30 Minutes",
+    "click": 0,
+    "relevance": -0.094
+  },
+  {
+    "query": "breakfast ideas",
+    "document": "Healthy Recipes for Weight Loss",
+    "click": 0,
+    "relevance": -0.099
+  },
+  {
+    "query": "laptop for work",
+    "document": "Professional Workstation Laptops Review",
+    "click": 0,
+    "relevance": -0.072
+  },
+  {
+    "query": "python tutorial",
+    "document": "Top 15 Travel Destinations 2024",
+    "click": 0,
+    "relevance": -0.057
+  },
+  {
+    "query": "laptop for work",
+    "document": "Quick Breakfast Ideas for Busy Mornings",
+    "click": 0,
+    "relevance": 0.378
+  },
+  {
+    "query": "budget laptop",
+    "document": "Best Budget Laptops for Students 2024",
+    "click": 0,
+    "relevance": 0.431
+  },
+  {
+    "query": "budget laptop",
+    "document": "10 Healthy Dinner Recipes Under 30 Minutes",
+    "click": 0,
+    "relevance": -0.011
+  },
+  {
+    "query": "nike shoes",
+    "document": "10 Healthy Dinner Recipes Under 30 Minutes",
+    "click": 0,
+    "relevance": -0.057
+  },
+  {
+    "query": "budget laptop",
+    "document": "Quick Breakfast Ideas for Busy Mornings",
+    "click": 0,
+    "relevance": 0.036
+  },
+  {
+    "query": "laptop for work",
+    "document": "Best Budget Laptops for Students 2024",
+    "click": 0,
+    "relevance": 0.277
+  },
+  {
+    "query": "budget laptop",
+    "document": "Quick Breakfast Ideas for Busy Mornings",
+    "click": 0,
+    "relevance": 0.089
+  },
+  {
+    "query": "quick dinner",
+    "document": "Meal Prep Guide for Beginners",
+    "click": 0,
+    "relevance": -0.076
+  },
+  {
+    "query": "budget laptop",
+    "document": "Best Running Shoes 2024 Review",
+    "click": 0,
+    "relevance": 0.007
+  },
+  {
+    "query": "python tutorial",
+    "document": "Healthy Recipes for Weight Loss",
+    "click": 0,
+    "relevance": -0.086
+  },
+  {
+    "query": "budget laptop",
+    "document": "Budget Athletic Shoes Guide",
+    "click": 0,
+    "relevance": 0.584
+  },
+  {
+    "query": "python tutorial",
+    "document": "Best Running Shoes 2024 Review",
+    "click": 0,
+    "relevance": 0.042
+  },
+  {
+    "query": "budget laptop",
+    "document": "Meal Prep Guide for Beginners",
+    "click": 0,
+    "relevance": -0.066
+  },
+  {
+    "query": "python tutorial",
+    "document": "Healthy Recipes for Weight Loss",
+    "click": 0,
+    "relevance": -0.082
+  },
+  {
+    "query": "python tutorial",
+    "document": "Best Running Shoes 2024 Review",
+    "click": 0,
+    "relevance": 0.005
+  },
+  {
+    "query": "laptop for work",
+    "document": "Advanced Python Programming Guide",
+    "click": 0,
+    "relevance": -0.033
+  },
+  {
+    "query": "budget laptop",
+    "document": "Top 15 Travel Destinations 2024",
+    "click": 0,
+    "relevance": 0.002
+  },
+  {
+    "query": "python tutorial",
+    "document": "Python Programming Complete Course",
+    "click": 1,
+    "relevance": 0.447
+  },
+  {
+    "query": "python tutorial",
+    "document": "Python Programming Complete Course",
+    "click": 0,
+    "relevance": 0.552
+  },
+  {
+    "query": "python tutorial",
+    "document": "Top Workout Shoes for Gym",
+    "click": 0,
+    "relevance": -0.007
+  },
+  {
+    "query": "python tutorial",
+    "document": "Best Weekend Getaway Spots",
+    "click": 0,
+    "relevance": 0.029
+  },
+  {
+    "query": "python tutorial",
+    "document": "Meal Prep Guide for Beginners",
+    "click": 0,
+    "relevance": -0.07
+  },
+  {
+    "query": "laptop for work",
+    "document": "10 Healthy Dinner Recipes Under 30 Minutes",
+    "click": 0,
+    "relevance": 0.018
+  },
+  {
+    "query": "laptop for work",
+    "document": "Budget Athletic Shoes Guide",
+    "click": 0,
+    "relevance": -0.092
+  },
+  {
+    "query": "python tutorial",
+    "document": "Professional Workstation Laptops Review",
+    "click": 0,
+    "relevance": 0.023
+  },
+  {
+    "query": "python tutorial",
+    "document": "Best Budget Laptops for Students 2024",
+    "click": 0,
+    "relevance": -0.01
+  },
+  {
+    "query": "breakfast ideas",
+    "document": "Budget Vacation Ideas",
+    "click": 1,
+    "relevance": 0.495
+  },
+  {
+    "query": "budget laptop",
+    "document": "Meal Prep Guide for Beginners",
+    "click": 1,
+    "relevance": 0.096
+  },
+  {
+    "query": "gaming laptop",
+    "document": "Advanced Python Programming Guide",
+    "click": 0,
+    "relevance": 0.042
+  },
+  {
+    "query": "python tutorial",
+    "document": "Learn Python in 30 Days - Free Tutorial",
+    "click": 1,
+    "relevance": 0.973
+  },
+  {
+    "query": "laptop for work",
+    "document": "Budget Vacation Ideas",
+    "click": 0,
+    "relevance": -0.09
+  },
+  {
+    "query": "laptop for work",
+    "document": "Gaming Laptop Buying Guide",
+    "click": 0,
+    "relevance": 0.345
+  },
+  {
+    "query": "python tutorial",
+    "document": "Budget Vacation Ideas",
+    "click": 0,
+    "relevance": 0.075
+  },
+  {
+    "query": "budget laptop",
+    "document": "Healthy Recipes for Weight Loss",
+    "click": 0,
+    "relevance": -0.038
+  },
+  {
+    "query": "python tutorial",
+    "document": "Budget Vacation Ideas",
+    "click": 0,
+    "relevance": 0.042
+  },
+  {
+    "query": "python tutorial",
+    "document": "Meal Prep Guide for Beginners",
+    "click": 0,
+    "relevance": 0.063
+  },
+  {
+    "query": "travel destinations",
+    "document": "Professional Workstation Laptops Review",
+    "click": 0,
+    "relevance": 0.029
+  },
+  {
+    "query": "laptop for work",
+    "document": "Quick Breakfast Ideas for Busy Mornings",
+    "click": 1,
+    "relevance": 0.269
+  },
+  {
+    "query": "workout shoes",
+    "document": "Python Basics for Beginners",
+    "click": 0,
+    "relevance": -0.055
+  },
+  {
+    "query": "budget laptop",
+    "document": "Top 15 Travel Destinations 2024",
+    "click": 0,
+    "relevance": 0.054
+  },
+  {
+    "query": "gaming laptop",
+    "document": "Meal Prep Guide for Beginners",
+    "click": 0,
+    "relevance": 0.075
+  },
+  {
+    "query": "budget laptop",
+    "document": "Learn Python in 30 Days - Free Tutorial",
+    "click": 0,
+    "relevance": -0.064
+  },
+  {
+    "query": "learn python",
+    "document": "Budget Athletic Shoes Guide",
+    "click": 0,
+    "relevance": -0.091
+  },
+  {
+    "query": "athletic shoes",
+    "document": "Budget Vacation Ideas",
+    "click": 0,
+    "relevance": -0.043
+  },
+  {
+    "query": "python tutorial",
+    "document": "Advanced Python Programming Guide",
+    "click": 0,
+    "relevance": 0.462
+  },
+  {
+    "query": "budget laptop",
+    "document": "Healthy Recipes for Weight Loss",
+    "click": 0,
+    "relevance": 0.036
+  },
+  {
+    "query": "laptop for work",
+    "document": "Best Running Shoes 2024 Review",
+    "click": 0,
+    "relevance": 0.001
+  },
+  {
+    "query": "budget laptop",
+    "document": "Budget Vacation Ideas",
+    "click": 1,
+    "relevance": 0.428
+  }
+]
